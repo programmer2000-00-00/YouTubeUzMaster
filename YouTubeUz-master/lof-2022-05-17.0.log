@@ -1,0 +1,647 @@
+2022-05-17 07:50:12 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 15420 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 07:50:12 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 07:50:12 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 07:50:12 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 07:50:12 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 46 ms. Found 8 JPA repository interfaces.
+2022-05-17 07:50:13 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 07:50:13 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 07:50:13 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 07:50:13 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 07:50:13 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 1385 ms
+2022-05-17 07:50:13 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 07:50:13 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 07:50:13 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 07:50:13 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 07:50:13 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 07:50:13 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 07:50:13 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 07:50:14 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 07:50:14 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 07:50:15 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 07:50:15 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 07:50:15 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 4.094 seconds (JVM running for 4.813)
+2022-05-17 07:50:17 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 07:50:17 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 07:50:17 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 3 ms
+2022-05-17 07:50:39 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 07:50:39 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 07:50:39 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 11:45:37 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 9320 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 11:45:37 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 11:45:37 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 11:45:37 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 11:45:37 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 72 ms. Found 10 JPA repository interfaces.
+2022-05-17 11:45:38 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 11:45:38 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 11:45:38 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 11:45:38 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 11:45:38 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 1310 ms
+2022-05-17 11:45:38 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 11:45:38 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 11:45:38 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 11:45:38 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 11:45:38 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 11:45:38 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 11:45:38 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 11:45:38 - o.s.o.j.LocalContainerEntityManagerFactoryBean - ERROR - Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.company.YouTubeUz.entity.PlaylistVideoEntity column: video_id (should be mapped with insert="false" update="false")
+2022-05-17 11:45:38 - o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - WARN  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.company.YouTubeUz.entity.PlaylistVideoEntity column: video_id (should be mapped with insert="false" update="false")
+2022-05-17 11:45:38 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 11:45:38 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 11:45:38 - o.a.catalina.core.StandardService - INFO  - Stopping service [Tomcat]
+2022-05-17 11:45:38 - o.s.b.a.l.ConditionEvaluationReportLoggingListener - INFO  - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-17 11:45:39 - o.s.boot.SpringApplication - ERROR - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.company.YouTubeUz.entity.PlaylistVideoEntity column: video_id (should be mapped with insert="false" update="false")
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.company.YouTubeUz.YouTubeUzApplication.main(YouTubeUzApplication.java:10)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.company.YouTubeUz.entity.PlaylistVideoEntity column: video_id (should be mapped with insert="false" update="false")
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 16 common frames omitted
+Caused by: org.hibernate.MappingException: Repeated column in mapping for entity: com.company.YouTubeUz.entity.PlaylistVideoEntity column: video_id (should be mapped with insert="false" update="false")
+	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:895)
+	at org.hibernate.mapping.PersistentClass.checkPropertyColumnDuplication(PersistentClass.java:913)
+	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:935)
+	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:637)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:267)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:359)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1498)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	... 20 common frames omitted
+2022-05-17 11:46:23 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 6384 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 11:46:23 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 11:46:23 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 11:46:24 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 11:46:24 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 58 ms. Found 10 JPA repository interfaces.
+2022-05-17 11:46:24 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 11:46:24 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 11:46:24 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 11:46:24 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 11:46:24 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 1194 ms
+2022-05-17 11:46:24 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 11:46:24 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 11:46:24 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 11:46:24 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 11:46:24 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 11:46:24 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 11:46:24 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 11:46:25 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 11:46:25 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 11:46:26 - o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - WARN  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'playlistVideoController': Unsatisfied dependency expressed through field 'playlistVideoService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'playlistVideoService': Unsatisfied dependency expressed through field 'videoService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'videoService': Unsatisfied dependency expressed through field 'playlistVideoService'; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'playlistVideoService': Requested bean is currently in creation: Is there an unresolvable circular reference?
+2022-05-17 11:46:26 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 11:46:26 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 11:46:26 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 11:46:26 - o.a.catalina.core.StandardService - INFO  - Stopping service [Tomcat]
+2022-05-17 11:46:26 - o.s.b.a.l.ConditionEvaluationReportLoggingListener - INFO  - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-17 11:46:26 - o.s.b.d.LoggingFailureAnalysisReporter - ERROR - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+   playlistVideoController (field private com.company.YouTubeUz.service.PlaylistVideoService com.company.YouTubeUz.controller.PlaylistVideoController.playlistVideoService)
+┌─────┐
+|  playlistVideoService (field private com.company.YouTubeUz.service.VideoService com.company.YouTubeUz.service.PlaylistVideoService.videoService)
+↑     ↓
+|  videoService (field private com.company.YouTubeUz.service.PlaylistVideoService com.company.YouTubeUz.service.VideoService.playlistVideoService)
+└─────┘
+
+
+Action:
+
+Relying upon circular references is discouraged and they are prohibited by default. Update your application to remove the dependency cycle between beans. As a last resort, it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true.
+
+2022-05-17 11:46:57 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 6008 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 11:46:57 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 11:46:57 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 11:46:58 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 11:46:58 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 56 ms. Found 10 JPA repository interfaces.
+2022-05-17 11:46:58 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 11:46:58 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 11:46:58 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 11:46:58 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 11:46:58 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 1198 ms
+2022-05-17 11:46:58 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 11:46:58 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 11:46:58 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 11:46:59 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 11:46:59 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 11:46:59 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 11:46:59 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 11:46:59 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 11:46:59 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 11:47:00 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 11:47:00 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 11:47:01 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 3.916 seconds (JVM running for 4.5)
+2022-05-17 11:52:49 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 11:52:49 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 11:52:49 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 1 ms
+2022-05-17 11:53:18 - c.c.Y.controller.AuthController - INFO  - Authtorization : AuthDTO(email=nikotinus0321@gmail.com, password=niki_bes)
+2022-05-17 11:55:47 - o.a.coyote.http11.Http11Processor - INFO  - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xd9h60x7f0xf90xd00xf30xa40xae0xef0xca0x950xde0x930x100x1c0xb1nD0xce0xc30xd90xb00x9210xfbP0xfeS50x98= ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 11:58:01 - c.c.Y.controller.AuthController - INFO  - Authtorization : AuthDTO(email=nikotinus0321@gmail.com, password=niki_bes)
+2022-05-17 12:06:34 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-17 12:07:13 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------407626900798318360062624;charset=UTF-8' not supported]
+2022-05-17 12:07:42 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------816258265864527266341395;charset=UTF-8' not supported]
+2022-05-17 12:08:40 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]] with root cause
+java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:54)
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:27)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.validate(QueryParameterBindingImpl.java:90)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.setBindValue(QueryParameterBindingImpl.java:55)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:501)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:122)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$BindableQuery.setParameter(QueryParameterSetter.java:327)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.lambda$setParameter$4(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$ErrorHandling$1.execute(QueryParameterSetter.java:141)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.setParameter(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:82)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:74)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bindAndPrepare(ParameterBinder.java:96)
+	at org.springframework.data.jpa.repository.query.AbstractStringBasedJpaQuery.doCreateQuery(AbstractStringBasedJpaQuery.java:95)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.createQuery(AbstractJpaQuery.java:227)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$ModifyingExecution.doExecute(JpaQueryExecution.java:241)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:90)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:155)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:143)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:159)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:145)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy2/jdk.proxy2.$Proxy134.updatePhoto(Unknown Source)
+	at com.company.YouTubeUz.service.ChannelService.updatePhoto(ChannelService.java:93)
+	at com.company.YouTubeUz.controller.ChannelController.updatePhoto(ChannelController.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:920)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:684)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.company.YouTubeUz.config.JwtFilter.doFilter(JwtFilter.java:46)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 12:13:17 - c.c.Y.controller.AuthController - INFO  - Authtorization : AuthDTO(email=nikotinus0321@gmail.com, password=niki_bes)
+2022-05-17 12:14:05 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------881464289212561492725325;charset=UTF-8' not supported]
+2022-05-17 12:14:52 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------310748767353774930517563;charset=UTF-8' not supported]
+2022-05-17 12:17:07 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------967879607298367438318160;charset=UTF-8' not supported]
+2022-05-17 12:20:14 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:20:14 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:20:14 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 12:20:19 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 11292 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 12:20:19 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 12:20:19 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 12:20:19 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 12:20:19 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 69 ms. Found 10 JPA repository interfaces.
+2022-05-17 12:20:20 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 12:20:20 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 12:20:20 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 12:20:20 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 12:20:20 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 1391 ms
+2022-05-17 12:20:20 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 12:20:20 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 12:20:20 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 12:20:20 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 12:20:20 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 12:20:20 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 12:20:20 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 12:20:21 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 12:20:21 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:20:22 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 12:20:22 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 12:20:23 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 4.244 seconds (JVM running for 4.854)
+2022-05-17 12:20:24 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 12:20:24 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 12:20:24 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 2 ms
+2022-05-17 12:20:24 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<?> com.company.YouTubeUz.controller.ChannelController.updatePhoto(java.lang.String,com.company.YouTubeUz.dto.AttachDTO,javax.servlet.http.HttpServletRequest)]
+2022-05-17 12:20:39 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------899139930658039205238329;charset=UTF-8' not supported]
+2022-05-17 12:25:47 - o.a.coyote.http11.Http11Processor - INFO  - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xa00xaf[0xf40x18P0xc1z/0xec0xd5t0xa70xa80xc40xfb0xb40x990x110x8a0x0d0xe00xca0x970xb10xae0xef0x050x1d@0x18d ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 12:26:41 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:26:41 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:26:41 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 12:32:22 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 10944 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 12:32:22 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 12:32:22 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 12:32:22 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 12:32:22 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 48 ms. Found 10 JPA repository interfaces.
+2022-05-17 12:32:22 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 12:32:22 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 12:32:22 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 12:32:22 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 12:32:22 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 899 ms
+2022-05-17 12:32:22 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 12:32:23 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 12:32:23 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 12:32:23 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 12:32:23 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 12:32:23 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 12:32:23 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 12:32:23 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 12:32:23 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:32:24 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 12:32:24 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 12:32:24 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 3.117 seconds (JVM running for 3.518)
+2022-05-17 12:32:27 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 12:32:27 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 12:32:27 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 1 ms
+2022-05-17 12:32:28 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------008398414780371362376545;charset=UTF-8' not supported]
+2022-05-17 12:32:45 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]] with root cause
+java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:54)
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:27)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.validate(QueryParameterBindingImpl.java:90)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.setBindValue(QueryParameterBindingImpl.java:55)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:501)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:122)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$BindableQuery.setParameter(QueryParameterSetter.java:327)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.lambda$setParameter$4(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$ErrorHandling$1.execute(QueryParameterSetter.java:141)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.setParameter(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:82)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:74)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bindAndPrepare(ParameterBinder.java:96)
+	at org.springframework.data.jpa.repository.query.AbstractStringBasedJpaQuery.doCreateQuery(AbstractStringBasedJpaQuery.java:95)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.createQuery(AbstractJpaQuery.java:227)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$ModifyingExecution.doExecute(JpaQueryExecution.java:241)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:90)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:155)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:143)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:159)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:145)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy2/jdk.proxy2.$Proxy134.updatePhoto(Unknown Source)
+	at com.company.YouTubeUz.service.ChannelService.updatePhoto(ChannelService.java:93)
+	at com.company.YouTubeUz.controller.ChannelController.updatePhoto(ChannelController.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.company.YouTubeUz.config.JwtFilter.doFilter(JwtFilter.java:46)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 12:33:29 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:33:29 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:33:29 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 12:33:34 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 17732 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 12:33:34 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 12:33:34 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 12:33:35 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 12:33:35 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 51 ms. Found 10 JPA repository interfaces.
+2022-05-17 12:33:35 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 12:33:35 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 12:33:35 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 12:33:35 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 12:33:35 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 897 ms
+2022-05-17 12:33:35 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 12:33:35 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 12:33:35 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 12:33:35 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 12:33:35 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 12:33:36 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 12:33:36 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 12:33:36 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 12:33:36 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:33:37 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 12:33:37 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 12:33:37 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 2.967 seconds (JVM running for 3.34)
+2022-05-17 12:34:18 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 12:34:18 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 12:34:18 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 1 ms
+2022-05-17 12:34:18 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]] with root cause
+java.lang.IllegalArgumentException: Parameter value [cea0a672-b646-44ea-90df-45ad368169c4] did not match expected type [com.company.YouTubeUz.entity.AttachEntity (n/a)]
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:54)
+	at org.hibernate.query.spi.QueryParameterBindingValidator.validate(QueryParameterBindingValidator.java:27)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.validate(QueryParameterBindingImpl.java:90)
+	at org.hibernate.query.internal.QueryParameterBindingImpl.setBindValue(QueryParameterBindingImpl.java:55)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:501)
+	at org.hibernate.query.internal.AbstractProducedQuery.setParameter(AbstractProducedQuery.java:122)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$BindableQuery.setParameter(QueryParameterSetter.java:327)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.lambda$setParameter$4(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$ErrorHandling$1.execute(QueryParameterSetter.java:141)
+	at org.springframework.data.jpa.repository.query.QueryParameterSetter$NamedOrIndexedQueryParameterSetter.setParameter(QueryParameterSetter.java:118)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:82)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bind(ParameterBinder.java:74)
+	at org.springframework.data.jpa.repository.query.ParameterBinder.bindAndPrepare(ParameterBinder.java:96)
+	at org.springframework.data.jpa.repository.query.AbstractStringBasedJpaQuery.doCreateQuery(AbstractStringBasedJpaQuery.java:95)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.createQuery(AbstractJpaQuery.java:227)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$ModifyingExecution.doExecute(JpaQueryExecution.java:241)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:90)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:155)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:143)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:159)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:145)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy2/jdk.proxy2.$Proxy134.updatePhoto(Unknown Source)
+	at com.company.YouTubeUz.service.ChannelService.updatePhoto(ChannelService.java:93)
+	at com.company.YouTubeUz.controller.ChannelController.updatePhoto(ChannelController.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.company.YouTubeUz.config.JwtFilter.doFilter(JwtFilter.java:46)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 12:34:41 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:34:41 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:34:41 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 12:34:44 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 17432 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 12:34:44 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 12:34:44 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 12:34:45 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 12:34:45 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 46 ms. Found 10 JPA repository interfaces.
+2022-05-17 12:34:45 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 12:34:45 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 12:34:45 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 12:34:45 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 12:34:45 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 948 ms
+2022-05-17 12:34:45 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 12:34:45 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 12:34:45 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 12:34:45 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 12:34:45 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 12:34:45 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 12:34:45 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 12:34:46 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 12:34:46 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:34:47 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 12:34:47 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 12:34:47 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 3.115 seconds (JVM running for 3.642)
+2022-05-17 12:34:49 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 12:34:49 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 12:34:49 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 1 ms
+2022-05-17 12:35:47 - o.a.coyote.http11.Http11Processor - INFO  - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03U[J0xf840xf30x920xa4M0xc70x040x060x0boTa0x090xa30xd20xd80xc10xa50xf80xa80xed;0xfeQ0xc22v0x98 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-17 12:35:52 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:35:52 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:35:52 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
+2022-05-17 12:35:55 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Starting YouTubeUzApplication using Java 17.0.2 on Bilol with PID 10436 (D:\JavaLessons\YouTubeUz\target\classes started by Bilol in D:\JavaLessons\YouTubeUz)
+2022-05-17 12:35:55 - c.c.YouTubeUz.YouTubeUzApplication - DEBUG - Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-17 12:35:55 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - The following 1 profile is active: "dev"
+2022-05-17 12:35:56 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-17 12:35:56 - o.s.d.r.c.RepositoryConfigurationDelegate - INFO  - Finished Spring Data repository scanning in 70 ms. Found 10 JPA repository interfaces.
+2022-05-17 12:35:56 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat initialized with port(s): 8080 (http)
+2022-05-17 12:35:56 - o.a.catalina.core.StandardService - INFO  - Starting service [Tomcat]
+2022-05-17 12:35:56 - o.a.catalina.core.StandardEngine - INFO  - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-17 12:35:56 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring embedded WebApplicationContext
+2022-05-17 12:35:56 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO  - Root WebApplicationContext: initialization completed in 933 ms
+2022-05-17 12:35:56 - c.company.YouTubeUz.config.JwtFilter - DEBUG - Filter 'jwtFilter' configured for use
+2022-05-17 12:35:56 - o.h.jpa.internal.util.LogHelper - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-17 12:35:56 - org.hibernate.Version - INFO  - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-17 12:35:57 - o.h.annotations.common.Version - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-17 12:35:57 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Starting...
+2022-05-17 12:35:57 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Start completed.
+2022-05-17 12:35:57 - org.hibernate.dialect.Dialect - INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-17 12:35:57 - o.h.e.t.j.p.i.JtaPlatformInitiator - INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-17 12:35:57 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:35:58 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-17 12:35:58 - o.s.b.w.e.tomcat.TomcatWebServer - INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-17 12:35:58 - c.c.YouTubeUz.YouTubeUzApplication - INFO  - Started YouTubeUzApplication in 3.042 seconds (JVM running for 3.441)
+2022-05-17 12:36:06 - o.a.c.c.C.[Tomcat].[localhost].[/] - INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 12:36:06 - o.s.web.servlet.DispatcherServlet - INFO  - Initializing Servlet 'dispatcherServlet'
+2022-05-17 12:36:06 - o.s.web.servlet.DispatcherServlet - INFO  - Completed initialization in 1 ms
+2022-05-17 12:36:06 - o.s.w.s.m.s.DefaultHandlerExceptionResolver - WARN  - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=--------------------------195369878719749479267275;charset=UTF-8' not supported]
+2022-05-17 12:37:52 - o.s.o.j.LocalContainerEntityManagerFactoryBean - INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-17 12:37:52 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown initiated...
+2022-05-17 12:37:52 - com.zaxxer.hikari.HikariDataSource - INFO  - HikariPool-1 - Shutdown completed.
